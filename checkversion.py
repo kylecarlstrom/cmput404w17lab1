@@ -1,3 +1,4 @@
+# Based on lab tutorial by Joshua Campbell
 #!/usr/bin/env python
 
 import requests
